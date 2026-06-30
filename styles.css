@@ -1,7 +1,8 @@
 body {
-    background-color: blue;
+    background-color: beige;
+    margin: 0;
 }
 
 li {
-    color: beige;
+    color: blue;
 }
